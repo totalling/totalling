@@ -1,16 +1,39 @@
-## Hi there 👋
+[![Twitter: meeeeeeeeeeedis](https://img.shields.io/twitter/follow/meeeeeeeeeeedis?style=social)](https://x.com/meeeeeeeeeeedis)
+[![Soundcloud: hijacked](https://img.shields.io/badge/-hijacked-blue?style=flat-square&logo=Soundcloud&logoColor=white&link=https://soundcloud.com/hijacked)](https://soundcloud.com/hijacked)
+[![GitHub: totalling](https://img.shields.io/github/followers/totalling?label=follow&style=social)](https://github.com/totalling)
 
-<!--
-**totalling/totalling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const scottish = {
+  pronouns: "he" | "him",
+  interests: ["gaming", "coding", "music"],
 
-Here are some ideas to get you started:
+  music: {
+    genres: ["Hip-Hop", "Underground Rap"],
+    topArtists: {
+      hipHop: ["Lil Shine", "Yeat"],
+      underground: ["nettspend", "Fimiguerrero", "Zelly Ocho", "Summrs"]
+    },
+    favoriteAlbums: [
+      "2 Alivë - Yeat", 
+      "Tragedy+ - Lil Shine",
+      "Poem V2 - Zelly Ocho"
+    ],
+    MusicTaste: {
+      username: "slimepointe",
+      topTags: ["trap", "rap", "underground"],
+      listeningHabits: {
+        weeklyScrobbles: 300,
+        favoriteTimeToListen: "evenings",
+        recentlyPlayed: ["Lil Shine - Tragedy+", "Yeat - Racks"],
+        topTracks: [
+          "Tragedy+ - Lil Shine",
+          "Racks - Yeat",
+          "Track 3 - Artist",
+        ],
+        mostListenedMonth: "August"
+      }
+    }
+  }
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
