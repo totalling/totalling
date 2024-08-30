@@ -24,7 +24,6 @@ const scottish = {
       listeningHabits: {
         weeklyScrobbles: 300,
         favoriteTimeToListen: "evenings",
-        recentlyPlayed: ["Lil Shine - Tragedy+", "Yeat - Racks"],
         topTracks: [
           "Tragedy+ - Lil Shine",
           "Racks - Yeat",
