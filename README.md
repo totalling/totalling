@@ -1,4 +1,4 @@
-## Only #1 VLAD
+## comparison is the thief of joy.
 
 ---
 
